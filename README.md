@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there~ 👋
 
 <!--
 **pistachio02/pistachio02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,10 @@ Here are some ideas to get you started:
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/mysql-000000?style=flat&logo=mysql&logoColor=FFFFFF"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/sequelize-000000?style=flat&logo=sequelize&logoColor=FFFFFF"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/amazonaws-000000?style=flat&logo=amazonaws&logoColor=FFFFFF"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/html-000000?style=flat&logo=html&logoColor=FFFFFF"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/jsonwebtokens-000000?style=flat&logo=jsonwebtokens&logoColor=FFFFFF"/></a>
+
+<a href="https://velog.io/@pistachio02" target="_blank"><img src="https://img.shields.io/badge/blogger-000000?style=flat&logo=blogger&logoColor=FFFFFF"/></a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pistachio02&show_icons=true&theme=radical)
