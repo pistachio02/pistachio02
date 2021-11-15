@@ -37,17 +37,17 @@
 ## ☎️
 
 <div align="center">
-    <a href="mailto:wiaptm0219@gmail.com">
+    <a href="mailto:wiaptm0219@gmail.com" target="_blank">
         <img 
             src="https://img.shields.io/badge/Gmail-abd79e?style=flat&logo=gmail&logoColor=FFFFFF"
             style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
     </a>
-    <a href="https://www.instagram.com/jungjh___/">
+    <a href="https://www.instagram.com/jungjh___/" target="_blank">
         <img 
             src="https://img.shields.io/badge/Instagram-abd79e?style=flat&logo=instagram&logoColor=FFFFFF"
             style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
     </a>
-    <a href="https://velog.io/@pistachio02">
+    <a href="https://velog.io/@pistachio02" target="_blank">
         <img 
             src="https://img.shields.io/badge/Velog-abd79e?style=flat&logo=blogger&logoColor=FFFFFF"
             style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
