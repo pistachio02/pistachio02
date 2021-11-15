@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/jwt-000000?style=flat&logo=jwt&logoColor=FFFFFF"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/mysql-000000?style=flat&logo=mysql&logoColor=FFFFFF"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/sequelize-000000?style=flat&logo=sequelize&logoColor=FFFFFF"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/axios-000000?style=flat&logo=axios&logoColor=FFFFFF"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/amazonaws-000000?style=flat&logo=amazonaws&logoColor=FFFFFF"/></a>
 
 
