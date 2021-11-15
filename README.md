@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Pistachio,%20My%20Favorite!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=abd79e&height=275&section=header&text=Pistachio%20Almond!!🍦&fontSize=85&animation=twinkling&fontColor=FFFFFF)
+
+
+
 
 
 
@@ -20,18 +23,19 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Javascript-000000?style=flat&logo=JavaScript&logoColor=FFFFFF"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=Node.js&logoColor=FFFFFF"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/React-000000?style=flat&logo=React&logoColor=FFFFFF"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=FFFFFF"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/mysql-000000?style=flat&logo=mysql&logoColor=FFFFFF"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/sequelize-000000?style=flat&logo=sequelize&logoColor=FFFFFF"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/amazonaws-000000?style=flat&logo=amazonaws&logoColor=FFFFFF"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/html-000000?style=flat&logo=html&logoColor=FFFFFF"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/jsonwebtokens-000000?style=flat&logo=jsonwebtokens&logoColor=FFFFFF"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Javascript-abd79e?style=flat&logo=JavaScript&logoColor=FFFFFF"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Node.js-abd79e?style=flat&logo=Node.js&logoColor=FFFFFF"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/React-abd79e?style=flat&logo=React&logoColor=FFFFFF"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/express-abd79e?style=flat&logo=express&logoColor=FFFFFF"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/mysql-abd79e?style=flat&logo=mysql&logoColor=FFFFFF"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/sequelize-abd79e?style=flat&logo=sequelize&logoColor=FFFFFF"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/amazonaws-abd79e?style=flat&logo=amazonaws&logoColor=FFFFFF"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/html-abd79e?style=flat&logo=html&logoColor=FFFFFF"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/jsonwebtokens-abd79e?style=flat&logo=jsonwebtokens&logoColor=FFFFFF"/></a>
 
-<a href="https://velog.io/@pistachio02" target="_blank"><img src="https://img.shields.io/badge/Velog-000000?style=flat&logo=blogger&logoColor=FFFFFF"/></a>
+<a href="https://velog.io/@pistachio02" target="_blank"><img src="https://img.shields.io/badge/Velog-abd79e?style=flat&logo=blogger&logoColor=FFFFFF"/></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pistachio02&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pistachio02&show_icons=true&theme=vue)
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=abd79e&height=275&section=footer&text=Almendra%20Pistacho!!🍦&fontSize=80&animation=twinkling&fontColor=FFFFFF)
