@@ -4,7 +4,7 @@
 
 
 ### HEY THERE~ 👋🏻 👋🏻
-<div>- 안녕하세요~</div>
+<div>- 안녕하세요!!</div>
 <div>- 백엔드 개발자를 꿈꾸는 Jung JongHwa 입니다!🧑🏻‍💻 </div>
 
 ## 📃
