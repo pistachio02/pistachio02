@@ -22,15 +22,15 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-abd79e?style=flat&logo=React&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/express-abd79e?style=flat&logo=express&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/mysql-abd79e?style=flat&logo=mysql&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/sequelize-abd79e?style=flat&logo=sequelize&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Express-abd79e?style=flat&logo=express&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/MySql-abd79e?style=flat&logo=mysql&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Sequelize-abd79e?style=flat&logo=sequelize&logoColor=FFFFFF"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/amazonaws-abd79e?style=flat&logo=amazonaws&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/html-abd79e?style=flat&logo=html5&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/jsonwebtokens-abd79e?style=flat&logo=jsonwebtokens&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Amazonaws-abd79e?style=flat&logo=amazonaws&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Html-abd79e?style=flat&logo=html5&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/JsonWebTokens-abd79e?style=flat&logo=jsonwebtokens&logoColor=FFFFFF"/>
 </p>
 
 
