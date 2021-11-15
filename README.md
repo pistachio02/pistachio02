@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Pistachio,%20My%20Favorite!&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Pistachio,%20My%20Favorite!&fontSize=90)
 
 
 
