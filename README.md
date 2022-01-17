@@ -2,11 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=abd79e&height=250&section=header&text=Almendra%20Pistacho!!🍦&fontSize=80&animation=twinkling&fontColor=FFFFFF" />
 <p/>
 
-
-
-### 👋🏻
-<div>- 안녕하세요!!</div>
-<div>- 능력있는 백엔드 개발자를 꿈꾸는 쇼와르망 입니다!🧑🏻‍💻 </div>
+<div> 안녕하세요, 능력있는 백엔드 개발자를 꿈꾸는 정종화 입니다!🧑🏻‍💻 💪🏻</div>
 
 ## 📃
 
