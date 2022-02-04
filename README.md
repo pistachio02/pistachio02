@@ -4,13 +4,13 @@
 
 <div> 안녕하세요, 능력있는 백엔드 개발자를 꿈꾸는 정종화 입니다!🧑🏻‍💻 💪🏻</div>
 
-## 📃
+##
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=pistachio02&show_icons=true&theme=vue"/>
 </p>
 
-## 💻 
+##
 
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-abd79e?style=flat&logo=JavaScript&logoColor=FFFFFF"/>
@@ -31,7 +31,7 @@
 </p>
 
 
-## ☎️
+##
 
 <div align="center">
     <a href="mailto:wiaptm0219@gmail.com" target="_blank">
@@ -51,7 +51,7 @@
     </a>
 </div>
 
-## 🤷🏻‍♂️ 
+##
 
 <p align="down">
   <div align=center>
