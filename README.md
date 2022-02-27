@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=90b083&height=250&section=header&text=Hello👋🏻%20I'm Jung!&fontSize=80&animation=twinkling&fontColor=FFFFFF" />
 <p/>
 
-<div> 안녕하세요, 능력있는 백엔드 개발자를 꿈꾸는 정종화 입니다!🧑🏻‍💻 💪🏻</div>
+<div> 안녕하세요, 주니어 백엔드 개발자 정종화 입니다!🧑🏻‍💻 💪🏻</div>
 
 ##
 
